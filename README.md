@@ -3,6 +3,6 @@
 Simulation of RSI indicator.
 
 ## tools
-`baostock` `python` `matplotlib`
+`baostock` `python` `matplotlib` `talib`
 ## assets
 `stock` 
